@@ -37,10 +37,10 @@ def process_table(table):
 
         td_list = tr.find_all("td")
         th_list = tr.find_all("th")
-        if(td_list == None or len(td_list) == 0):
+        if td_list == None or len(td_list) == 0:
             continue
         if country == None:
-            country = td_list[0].get_text().strip(),
+            country = td_list[0].get_text().strip()
             rowspan = td_list[0].get('rowspan')
             if rowspan != None:
                 country_row_span_count = int(rowspan) 
@@ -48,7 +48,7 @@ def process_table(table):
             if country_row_span_count == country_row_counter:
                 country_row_span_count = 0
                 country_row_counter = 0
-                country = td_list[0].get_text().strip(),
+                country = td_list[0].get_text().strip()
                 rowspan = td_list[0].get('rowspan')
                 if rowspan != None:
                     country_row_span_count = int(rowspan) 
