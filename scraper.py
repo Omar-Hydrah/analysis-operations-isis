@@ -54,7 +54,7 @@ def process_table(table):
                     country_row_span_count = int(rowspan) 
 
         result.append({
-            "country": td_list[0].get_text().strip(),
+            "country": country,
             "date"   : td_list[1].get_text(),
             "victims": th_list[0].get_text(),
             "injured": th_list[1].get_text(),
