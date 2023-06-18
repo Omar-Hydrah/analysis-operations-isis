@@ -9,9 +9,10 @@ def main():
     tables = soup.find_all("table", class_="wikitable")
     # for table in tables:
         #result = process_table(table)
-    table = tables[0]
+    table = tables[1]
     table_result = process_table(table)
     for item in table_result:
+        #print(item['country'] + ': ' + item['date'])
         print(item)
         print("\n")
 
@@ -52,10 +53,28 @@ def process_table(table):
                 rowspan = td_list[0].get('rowspan')
                 if rowspan != None:
                     country_row_span_count = int(rowspan) 
+        if date == None:
+            date = td_list[1].get_text()
+            rowspan = td_list[1].get('rowspan')
+            if rowspan != None:
+                date_row_span_count = int(rowspan) 
+        else:
+            if date_row_span_count == date_row_counter:
+                date_row_span_count = 0 
+                date_row_counter    = 0
+                rowspan = None 
+                if country_row_counter < country_row_span_count:
+                    date    = td_list[0].get_text()
+                    rowspan = td_list[0].get('rowspan')
+                else:
+                    date = td_list[1].get_text() 
+                    rowspan = td_list[1].get('rowspan')
+                if rowspan != None:
+                    date_row_span_count = int(rowspan)
 
         result.append({
             "country": country,
-            "date"   : td_list[1].get_text(),
+            "date"   : date,
             "victims": th_list[0].get_text(),
             "injured": th_list[1].get_text(),
         })
