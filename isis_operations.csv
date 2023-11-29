@@ -1,0 +1,191 @@
+country,year,month,victims,injured
+Iraq,2013,January,32,75
+Iraq,2013,January,55,288
+Iraq,2013,January,42,75
+Iraq,2013,February,42,111
+Iraq,2013,February,37,130
+Iraq,2013,February,34,70
+Iraq,2013,March,64,10
+Iraq,2013,March,98,240
+Iraq,2013,April,75,356
+Iraq,2013,April,331,600
+Iraq,2013,May,449,732
+Iraq,2013,June,94,289
+Iraq,2013,June,54,174
+Iraq,2013,December,38,70
+Belgium,2014,May,4,0
+Iraq,2014,June,670,-
+Iraq,2014,June,1700,-
+Australia,2014,September,0,2
+Australia,2014,September,2,4
+Canada,2014,October,1,1
+Canada,2014,October,1,3
+United States,2014,October,0,3
+France,2014,December,0,3
+Saudi Arabia,2015,January,3,1
+Libya,2015,January,10,7
+Denmark,2015,February,2,5
+Tunisia,2015,March,22,50
+Yemen,2015,March,142,351
+Saudi Arabia,2015,May,26,106
+United States,2015,May,0,1
+Turkey,2015,June,4,100
+France,2015,June,1,2
+Kuwait,2015,June,27,227
+Tunisia,2015,June,38,39
+Iraq,2015,July,130,130
+Turkey,2015,July,33,104
+France,2015,August,0,3
+Turkey,2015,October,109,400
+Egypt /  Russia,2015,October,224,0
+Lebanon,2015,November,43,240
+France,2015,November,131,413
+Tunisia,2015,November,13,16
+United States,2015,December,14,24
+Syria,2015,December,60,80
+Syria,2015,December,16,35
+Libya,2016,January,60,200
+Egypt,2016,January,0,2
+Turkey,2016,January,13,14
+Indonesia,2016,January,8,24
+Saudi Arabia,2016,January,4,18
+Syria,2016,February,57,100
+Syria,2016,February,83,178
+Turkey,2016,March,4,36
+Belgium,2016,March,32,340
+Yemen,2016,March,27,-
+Iraq,2016,March,33,78
+Bangladesh,2016,April,2,0
+Iraq,2016,April,38,86
+Iraq,2016,May,33,75
+Iraq,2016,May,110,165
+Iraq,2016,May,28,45
+Iraq,2016,May,101,194
+Yemen,2016,May,45,60
+Kazakhstan,2016,June,7,40
+France,2016,June,2,0
+Malaysia,2016,June,0,8
+Turkey,2016,June,45,239
+United States,2016,June,49,53
+Bangladesh,2016,July,24,50
+Iraq,2016,July,325,225
+Saudi Arabia,2016,July,7,7
+France,2016,July,86,434
+Germany,2016,July,0,5
+Afghanistan,2016,July,80,231
+Germany,2016,July,0,15
+France,2016,July,1,3
+Syria,2016,July,57,171
+Belgium,2016,August,0,2
+Pakistan,2016,August,93,130
+Turkey,2016,August,57,69
+Iraq,2016,September,40,60
+Pakistan,2016,October,61,160
+United States,2016,November,1,11
+Jordan,2016,December,15,37
+Germany,2016,December,13,56
+Turkey,2017,January,39,69
+Iraq,2017,January,70,100
+Afghanistan,2017,February,22,35
+Iraq,2017,February,54,63
+Pakistan,2017,February,90,300
+Syria,2017,February,51,-
+Afghanistan,2017,March,49,63
+Bangladesh,2017,March,0,2
+United Kingdom,2017,March,6,49
+Bangladesh,2017,March,7,40
+Egypt,2017,April,49,136
+Sweden,2017,April,5,15
+France,2017,April,2,2
+Pakistan,2017,May,25,37
+United Kingdom,2017,May,22,59
+Philippines,2017,May,1233,1400
+Indonesia,2017,May,3,12
+Egypt,2017,May,28,22
+United Kingdom,2017,June,8,48
+Australia,2017,June,1,3
+Iran,2017,June,17,42
+Afghanistan,2017,August,36,-
+Pakistan,2017,August,15,40
+Finland,2017,August,2,8
+Pakistan,2017,August,15,40
+Spain,2017,August,16,152
+United Kingdom,2017,September,0,30
+Canada,2017,September,0,5
+France,2017,October,3,0
+United States,2017,October,8,12
+Egypt,2017,November,311,128
+United States,2017,December,0,4
+Afghanistan,2017,December,50,80
+Iraq,2018,January,38,105
+Afghanistan,2018,January,6,27
+Russia,2018,February,6,5
+France,2018,March,5,15
+Iraq,2018,April,25,18
+Afghanistan,2018,April,69,120
+Afghanistan,2018,April,29,50
+Libya,2018,May,16,20
+France,2018,May,2,8
+Indonesia,2018,May,28,57
+Belgium,2018,May,4,4
+Afghanistan,2018,June,36,65
+Afghanistan,2018,July,20,20
+Pakistan,2018,July,149,186
+Afghanistan,2018,July,23,107
+Pakistan,2018,July,31,40
+Syria,2018,July,246,200
+Tajikistan,2018,July,4,3
+Afghanistan,2018,August,48,70
+Afghanistan,2018,August,48,67
+Iran,2018,September,30,70
+Egypt,2018,November,7,14
+Australia,2018,November,1,2
+France,2018,December,5,11
+Russia,2018,December,42,12
+Philippines,2019,January,22,102
+Pakistan,2019,April,22,48
+Sri Lanka,2019,April,261,500
+Sri Lanka,2019,April,16,2
+Afghanistan,2019,August,92,142
+Iraq,2019,August,6,10
+Tajikistan,2019,November,17,0
+Nigeria,2019,December,11,0
+Niger,2020,January,166,-
+United Kingdom,2020,February,1,3
+Afghanistan,2020,March,32,80
+Afghanistan,2020,March,25,8
+Afghanistan,2020,May,56,133
+Afghanistan,2020,August,29,-
+Philippines,2020,August,14,80
+Austria,2020,November,4,22
+Syria,2020,December,40,-
+Pakistan,2021,January,11,-
+Iraq,2021,January,32,110
+Afghanistan,2021,March,3,1
+Afghanistan,2021,March,8,1
+Afghanistan,2021,May,85,147
+Iraq,2021,July,30,50
+Afghanistan,2021,August,183,200
+New Zealand,2021,September,1,6
+Afghanistan,2021,September,7,30
+Afghanistan,2021,October,50,100
+Afghanistan,2021,October,65,70
+Pakistan,2022,March,63,196
+Israel,2022,March,-,12
+Afghanistan,2022,April,31,87
+Afghanistan,2022,April,50,30
+Benin,2022,July,4,0
+Afghanistan,2022,August,5,4
+Afghanistan,2022,August,8,18
+Afghanistan,2022,September,52,110
+Mozambique,2022,October,-,-
+Iran,2022,October,15,40
+Turkey,2022,November,6,81
+Afghanistan,2022,December,3,18
+Syria,2022,December,7,-
+Afghanistan,2023,January,20,30
+Afghanistan,2023,January,20,-
+DRC,2023,January,17,39
+Burkina Faso,2023,March,15,0
+DRC,2023,April,21,30
+Syria,2023,April,26,-
